@@ -507,43 +507,33 @@ https://trt.daioncdn.net/trtspor/master_720p.m3u8?platform=trtspor&sid=71oah188n
 https://trt.daioncdn.net/trtspor-yildiz/master_720p.m3u8?platform=trtspor&sid=71ob4fp4bdfx&app=6d14425d-4281-477b-8b74-49c40e4aa8b8&ce=2
 #EXTINF:-1 group-title="My Spor",TV8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=71obeazo1bvz&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-#EXTINF:-1 group-title="My Spor",SELCUK: Bein Sports 1
-https://cinque.29d0b51b213115a0.click/p/selcuksportshd1561.xyz/601/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 group-title="My Spor",SELCUK: Bein Sports 3
-https://sette.29d0b51b213115a0.click/p/selcuksportshd1561.xyz/603/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 group-title="My Spor",SELCUK: Bein Sports 1 Yedek
-https://due.7cbd07151f7a2d82.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
-#EXTINF:-1 group-title="My Spor",Bein Sports 1 Radar
-https://uno.29d0b51b213115a0.click/p/K1nSuzc3TWvqyb8Xx6hvEig21z/601/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 group-title="My Spor",Bein Sports 2 Radar
-https://tre.29d0b51b213115a0.click/p/K1nSuzc3TWvqyb8Xx6hvEig21z/602/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 group-title="My Spor",Bein 1
-https://due.29d0b51b213115a0.click/p/izlemac6250.sbs/601/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 group-title="My Spor",S Sport
-https://uno.29d0b51b213115a0.click/p/K1nSuzc3TWvqyb8Xx6hvEig21z/3450/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 group-title="My Spor",S Sport 2
-https://tre.29d0b51b213115a0.click/p/K1nSuzc3TWvqyb8Xx6hvEig21z/3451/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 group-title="My Spor",Tivibu1
-https://due.5f6456ac9bb69c44.click/p/selcuksportshd1588.xyz/606/a.cf-worker-fb2aa8d086469859.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 group-title="My Spor",Bein2
-https://nove.e357bfa0dfdc59c5.click/p/selcuksportshd1590.xyz/602/a.cf-worker-9fd10e8dcd45ebf0.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 group-title="My Spor",Bein1
-https://tre.e357bfa0dfdc59c5.click/p/selcuksportshd1590.xyz/601/a.cf-worker-9fd10e8dcd45ebf0.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 group-title="My Spor",Bein1 Yedek
-https://quattro.e357bfa0dfdc59c5.click/i/selcuksportshd1590.xyz/601/playlist.m3u8
-#EXTINF:-1 group-title="My Spor",Bein 1 Yedek 2
-https://sei.e357bfa0dfdc59c5.click/p/selcuksportshd1590.xyz/601/a.cf-worker-9fd10e8dcd45ebf0.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 group-title="My Spor",Bein3
-https://nove.e357bfa0dfdc59c5.click/p/selcuksportshd1590.xyz/603/a.cf-worker-9fd10e8dcd45ebf0.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 group-title="My Spor",Bein4
-https://nove.e357bfa0dfdc59c5.click/p/selcuksportshd1590.xyz/604/a.cf-worker-9fd10e8dcd45ebf0.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 group-title="My Spor",Bein5
-https://sei.e357bfa0dfdc59c5.click/i/selcuksportshd1590.xyz/705/playlist.m3u8
-#EXTINF:-1 group-title="My Spor",Bein5 yedek
-https://cinque.e357bfa0dfdc59c5.click/p/selcuksportshd1590.xyz/705/a.cf-worker-9fd10e8dcd45ebf0.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 group-title="My Spor" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTePBvsG6lVYxWU38NK3jsFfzc96QPZTKHaiQ&usqp=CAU",Selcukbein
-https://due.181179e1e566a703.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
 #EXTINF:-1 ,TRT 1 Yedek
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 ,TRT 1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=73lsxzbm66ab&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1 group-title="My Spor",Selcuk_bein
+https://due.f40b69170e33e058.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
+#EXTINF:-1 group-title="My Spor",Selcuk_bein5
+https://quattro.c53af06fa4e55583.click/i/selcuksportshd1611.xyz/705/playlist.m3u8
+#EXTINF:-1 group-title="My Spor",S Sport
+https://due.7bbe7100a2a6984b.click/p/mackeyfi2365.sbs/3450/a.cf-worker-1a96d4b814b83185.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 group-title="My Spor",S Sport 2
+https://sei.7bbe7100a2a6984b.click/p/mackeyfi2365.sbs/3451/a.cf-worker-1a96d4b814b83185.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 group-title="My Spor",CBC Sport
+https://sette.7bbe7100a2a6984b.click/p/mackeyfi2365.sbs/3452/a.cf-worker-1a96d4b814b83185.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 group-title="My Spor",Bein Sports 1
+https://streamnet6.xyz/?url=https://streamnetcdn.xyz/hls/bein1.m3u8
+#EXTINF:-1 group-title="My Spor",Bein Sports 2
+https://streamnet6.xyz/?url=https://streamnetcdn.xyz/hls/bein2.m3u8
+#EXTINF:-1 group-title="My Spor",Bein Sports 3
+https://streamnet6.xyz/?url=https://streamnetcdn.xyz/hls/bein3.m3u8
+#EXTINF:-1 group-title="My Spor",Bein Sports 4
+https://streamnet6.xyz/?url=https://streamnetcdn.xyz/hls/bein4.m3u8
+#EXTINF:-1 group-title="My Spor",Bein Sports 1 S
+https://nove.7bbe7100a2a6984b.click/p/selcuksportshd1616.xyz/601/a.cf-worker-1a96d4b814b83185.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 group-title="My Spor",Bein Sports 5
+https://streamnet6.xyz/?url=https://streamnetcdn.xyz/hls/bein5.m3u8
+#EXTINF:-1 group-title="My Spor",Bein 1
+https://love2live.wideiptv.top/beINSPORTS1TR/tracks-v1/index.fmp4.m3u8?token=b92e688206f42fe4a0e3228f0fbeb56b5fe65b42-481a520803981ecc4f12d797101486d9-1738148363-1738137563
+#EXTINF:-1 group-title="My Spor",Bein1
+https://sette.7bbe7100a2a6984b.click/p/canlimaclar2021.sbs/601/a.cf-worker-1a96d4b814b83185.workers.dev/chunklist_hd.m3u8
