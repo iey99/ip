@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="TR| BEIN SPORTS HABER 4K" tvg-logo="http://picons.cmshulk.com/picons/912885.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS HABER 4K
 http://vpn.cloudenginerevo.store:80/fc2ded9338/0f0041b3f4/912885
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="TR| BEIN SPORTS HABER FHD" tvg-logo="http://picons.cmshulk.com/picons/913461.png" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS HABER FHD
@@ -46,8 +47,6 @@ http://vpn.cloudenginerevo.store:80/fc2ded9338/0f0041b3f4/913442
 http://vpn.cloudenginerevo.store:80/fc2ded9338/0f0041b3f4/913451
 #EXTINF:-1 tvg-id="" tvg-name="TR| BEIN SPORTS MAX 2 HD 1080" tvg-logo="http://103.176.90.118/picons/logos/BEINSPORTS-2-MAX-HD.jpeg" group-title="TR| MAC KANALLARI",TR| BEIN SPORTS MAX 2 HD 1080
 http://vpn.cloudenginerevo.store:80/fc2ded9338/0f0041b3f4/913441
-#EXTINF:-1 tvg-id="" tvg-name="####### TABII SPORT ᴿᴬᵂ #######" tvg-logo="" group-title="TR| TABII SPORT",####### TABII SPORT ᴿᴬᵂ #######
-http://vpn.cloudenginerevo.store:80/fc2ded9338/0f0041b3f4/1625462
 #EXTINF:-1 tvg-id="" tvg-name="TR| TABII SPORT  ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1625461.png" group-title="TR| TABII SPORT",TR| TABII SPORT  ᴿᴬᵂ
 http://vpn.cloudenginerevo.store:80/fc2ded9338/0f0041b3f4/1980495
 #EXTINF:-1 tvg-id="" tvg-name="TR| TABII SPORT 1 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1625461.png" group-title="TR| TABII SPORT",TR| TABII SPORT 1 ᴿᴬᵂ
